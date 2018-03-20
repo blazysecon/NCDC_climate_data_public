@@ -31,3 +31,29 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# Rds files
+*.rds
+
+# Rdata files
+*.RData
+
+.Rproj.user
+
+# Archive output directory
+output_archive/
+
+# logs
+log/
+
+# Temporary files
+temp_*
+
+# Zipped output files
+*.csv.gz
+
+output/
+
+data/
+
+misc/
